@@ -6,13 +6,16 @@ It does everything that all the other tools for Machine Learning do, but I wrote
 
 Oh yes, and if you are a newby, you now can wonder why you should use yet another machine leaning tool.
 
-Isn't it great.
+Isn't it great?
 
-Welcome BTW.
+You are welcome BTW.
 
 Thanks for trying. Now go back to your old tool...
+
 ...
+
 ...
+
 and DO SOMETHING WITH IT, INSTEAD OF PLAYING WITH CODE AND INSTALLATIONS.
 
 Respectfully
